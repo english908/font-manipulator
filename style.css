@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px purple;
+    padding: 10px;
+    font-family: 'Rowdies', cursive;
+}
+.note{
+    font-size: 15px;
+    color:black;
+}
+.copy_right_footer{
+    position:fixed;
+    color: darkslateblue;
+    bottom: 0; 
+    width:100%;
+    background-color:aquamarine;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Moon Dance', cursive;
+  font-size: 25px;
+  font-weight: bold;
+}
+canvas{
+    border: 5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px rgb(0, 60, 240);
+}
